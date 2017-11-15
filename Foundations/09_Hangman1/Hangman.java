@@ -70,13 +70,7 @@ public class Hangman{
 					System.out.println("GAME OVER");
 					gameComplete = true;
 				}
-
 			}
-
-
-
 		}
-
-
 	}
 }
