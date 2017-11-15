@@ -1,0 +1,4 @@
+Note: these are the notes I deem important, with the preivous knowledge of an entire CS degree. Very abridged.
+
+- In Java, you can call str.toCharArray() to split it into a char[]. Similar to "for c in str" in Python.
+- Shorter for loop syntax (if you don't need index): "for (char c : characters){}"
